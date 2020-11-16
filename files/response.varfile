@@ -1,0 +1,13 @@
+# install4j response file for Confluence 7.4.5
+app.install.service$Boolean=true
+app.jiraHome=/var/atlassian/application-data/jira
+executeLauncherAction$Boolean=true
+existingInstallationDir=/opt/Confluence
+httpPort$Long=8090
+launch.application$Boolean=true
+portChoice=default
+rmiPort$Long=8000
+sys.adminRights$Boolean=true
+sys.confirmedUpdateInstallationString=false
+sys.installationDir=/opt/atlassian/confluence
+sys.languageId=en

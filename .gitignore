@@ -1,0 +1,13 @@
+# IDEA
+.idea
+
+# Vagrant
+.vagrant*
+
+# Executables
+*.msi
+*.exe
+*.bin
+
+#Others
+.gitignore.bak
